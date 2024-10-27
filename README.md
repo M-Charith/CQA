@@ -22,7 +22,7 @@ Clone the CQA project files into your local directory using `git clone`. Run:
 
 ```bash
 git clone https://github.com/M-Charith/CQA
-
+```
 ### Prerequisite
 
 Your local Machine must have PostgreSQL installed and pgAdmin(preferably for excuting .sql scripts, or you could execute them from the terminal too.)
